@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karam Elahi
+# Hi, I'm Karam Elahi
 ### Full Stack .NET & Angular Developer | ABP Framework Expert | Web Architect
 
 Results-driven Full Stack Developer with over **4 years of professional experience**. I specialize in designing and deploying enterprise-grade web applications using the **.NET stack and Angular**. Currently working at **East & West Web Development & SEO Agency** in collaboration with **CubeOne**, delivering scalable software solutions.
