@@ -57,8 +57,5 @@ Results-driven Full Stack Developer with over **4 years of professional experien
 * **WhatsApp:** [+92 342 6418460](https://wa.me/923426418460)
 * **Email:** [karam.ciit@gmail.com](mailto:karam.ciit@gmail.com)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karamgithuber&show_icons=true&theme=dark" alt="Karam Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karamgithuber&layout=compact&theme=dark" alt="Top Langs" />
-</p>
+
+
